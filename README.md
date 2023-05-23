@@ -2,4 +2,4 @@
 NATS fire &amp; forget &amp; JStream
 
 ## Architecture
-![Alt text](Crm. "Architect")
+![Alt text](Crm.png "Architect")
